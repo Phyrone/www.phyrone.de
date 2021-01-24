@@ -1,3 +1,4 @@
+![Build and Deploy](https://github.com/Phyrone/www.phyrone.de/workflows/Build%20and%20Deploy/badge.svg)  
 # homepage
 
 Empty project.
