@@ -1,0 +1,18 @@
+{
+  presets: [
+    [
+      "@babel/preset-env",
+      {
+        modules: false
+      }
+    ]
+  ],
+  plugins: [
+    //"react-hot-loader/babel",
+    ["object-to-json-parse",{
+      "minJSONStringSize": 32
+    }],
+    "babel-plugin-loop-optimizer",
+    "module:faster.js"
+  ]
+}
