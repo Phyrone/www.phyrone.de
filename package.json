@@ -27,8 +27,8 @@
     "tailwindcss": "^2.0.2"
   },
   "devDependencies": {
-    "@babel/core": "7.12.16",
-    "@babel/preset-env": "7.12.16",
+    "@babel/core": "7.12.17",
+    "@babel/preset-env": "7.12.17",
     "@hot-loader/react-dom": "17.0.1",
     "autoprefixer": "10.2.4",
     "babel-loader": "8.2.2",
