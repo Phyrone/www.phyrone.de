@@ -16,7 +16,7 @@
     "@fortawesome/fontawesome-free": "^5.15.2",
     "babel-plugin-loop-optimizer": "^1.4.1",
     "bootstrap": "^4.6.0",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.0",
     "lodash": "^4.17.20",
     "markdown-html-webpack-plugin": "^1.0.1",
     "markdown-loader": "^6.0.0",
