@@ -15,7 +15,7 @@
     "@barba/core": "^2.9.7",
     "@fortawesome/fontawesome-free": "^5.15.2",
     "babel-plugin-loop-optimizer": "^1.4.1",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0",
     "jquery": "^3.6.0",
     "lodash": "^4.17.20",
     "markdown-html-webpack-plugin": "^1.0.1",
